@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "tiangolo",
+  "repo": "uvicorn-gunicorn-starlette-docker",
+  "versions": [
+    {
+      "commit": "3c5484c58218774ad47f1ad7aae681d5b2156056",
+      "parsed_at": "2026-10-10T04:37:11.371536+00:00",
+      "filetree": "filetree/3c5484c58218774ad47f1ad7aae681d5b2156056.nq.gz",
+      "blobs": [
+        "blob/acde30b8f263d82585f584e01cb4be745eaf4745.nq.gz",
+        "blob/00185a99afe5f1d5e9554af4a4f802e9d25dcc77.nq.gz",
+        "blob/b1b5f68cfa87a6ae6e62f8a5bd84e06086a14b59.nq.gz",
+        "blob/90a7812c30567e6e7737e937875d9aaf945376f1.nq.gz",
+        "blob/53dd60afa903ec0b511cc9ec7cc14c19308fad84.nq.gz",
+        "blob/998071656835cf5dba2084ebea25d827c6610266.nq.gz",
+        "blob/2811ded3331f0482bdee78628f167c7668741729.nq.gz",
+        "blob/5fc5f542be61a8ec27f104a4685be273a6350ebd.nq.gz",
+        "blob/7640fd5f71d83ee12db0977b8db4cfc1d55bae6d.nq.gz",
+        "blob/55eec6eb458d17b0a36c90625488d8fafbda90d5.nq.gz",
+        "blob/6828efae6e06bae6838575d437f44157776c6ed9.nq.gz",
+        "blob/236a646ecff2caf37d6743a6dbb5324583ba0dc8.nq.gz",
+        "blob/99784d68337bae260a66a51e87fb9adfc8850d9a.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/2b75d7cfd7c050117d260ffa70e207ea1821a208.nq.gz",
+        "blob/c94d562277a586c63f96f5e08e85cef15d9b1a4f.nq.gz",
+        "blob/ec967e98a4831519d3747165d04d2d96cd7ec51b.nq.gz",
+        "blob/40ce173f1a1d2ee11543d4c436a4a28f81d0031d.nq.gz",
+        "blob/feec529f1e6a2c68172ce4c39dca6419764cdbfa.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
