@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "uvicorn-gunicorn-starlette-docker",
+  "versions": [
+    {
+      "commit": "3c5484c58218774ad47f1ad7aae681d5b2156056",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:39:25.390409+00:00"
+    }
+  ]
+}
