@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/uvicorn-gunicorn-starlette-docker/commit/3c5484c58218774ad47f1ad7aae681d5b2156056",
       "git:hexsha": "3c5484c58218774ad47f1ad7aae681d5b2156056",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/uvicorn-gunicorn-starlette-docker/commit/e7d409e9f8e24da0cec37c932fbaa59a2ff4c08e",
